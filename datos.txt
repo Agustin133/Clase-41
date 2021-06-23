@@ -1,0 +1,12 @@
+[
+    {
+        "id":0,
+        "title":"remera",
+        "price":"100",
+        "stock":"12",
+        "code":"12aasda3",
+        "thumbnail":"Foto de remera",
+        "timestamp":"Jun 21, 2021 8:12 PM",
+        "description":"remera para salir"
+    }
+]
